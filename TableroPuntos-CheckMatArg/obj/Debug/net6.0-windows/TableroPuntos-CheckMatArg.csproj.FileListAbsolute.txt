@@ -1,0 +1,130 @@
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.exe
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.deps.json
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.runtimeconfig.json
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Form1.resources
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\refint\TableroPuntos-CheckMatArg.dll
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\ref\TableroPuntos-CheckMatArg.dll
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormTablero.resources
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPublicidad.resources
+C:\Users\Usuario\source\repos\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPresentacion.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.exe
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.deps.json
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.runtimeconfig.json
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.AssemblyReference.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Form1.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPresentacion.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPublicidad.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormTablero.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Properties.Resources.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.GenerateResource.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfoInputs.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfo.cs
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.CoreCompileInputs.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\refint\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.genruntimeconfig.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuene\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\ref\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.exe
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.deps.json
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.runtimeconfig.json
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.AssemblyReference.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Form1.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPresentacion.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPublicidad.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormTablero.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Properties.Resources.resources
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.GenerateResource.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfoInputs.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfo.cs
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.CoreCompileInputs.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\refint\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.genruntimeconfig.cache
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\ref\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\Tableros Check Mat ambas versiones\Version 2.0\fuente\TableroPuntos-CheckMatArg\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormControlPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.exe
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.deps.json
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.runtimeconfig.json
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.AssemblyReference.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Form1.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormControlPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPresentacion.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormTablero.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Properties.Resources.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.GenerateResource.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfoInputs.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfo.cs
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.CoreCompileInputs.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\refint\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.genruntimeconfig.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax)\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\ref\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.exe
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.deps.json
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.runtimeconfig.json
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.AssemblyReference.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Form1.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormControlPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPresentacion.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormTablero.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Properties.Resources.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.GenerateResource.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfoInputs.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfo.cs
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.CoreCompileInputs.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\refint\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.genruntimeconfig.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatArg(pruebax) - copia\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\ref\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.exe
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.deps.json
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.runtimeconfig.json
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\bin\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.AssemblyReference.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Form1.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormControlPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPresentacion.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormPublicidad.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.FormTablero.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos_CheckMatArg.Properties.Resources.resources
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.GenerateResource.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfoInputs.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.AssemblyInfo.cs
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.csproj.CoreCompileInputs.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\refint\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.pdb
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\TableroPuntos-CheckMatArg.genruntimeconfig.cache
+D:\Archivos\Desktop\TableroPuntos-CheckMatEquipe1\TableroPuntos-CheckMatArg\obj\Debug\net6.0-windows\ref\TableroPuntos-CheckMatArg.dll

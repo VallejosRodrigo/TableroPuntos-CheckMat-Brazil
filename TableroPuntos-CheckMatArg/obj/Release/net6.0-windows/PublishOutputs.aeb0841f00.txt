@@ -1,0 +1,5 @@
+D:\Archivos\Desktop\TableroPuntos-CheckMat2.0\TableroPuntos-CheckMatArg.exe
+D:\Archivos\Desktop\TableroPuntos-CheckMat2.0\TableroPuntos-CheckMatArg.dll
+D:\Archivos\Desktop\TableroPuntos-CheckMat2.0\TableroPuntos-CheckMatArg.deps.json
+D:\Archivos\Desktop\TableroPuntos-CheckMat2.0\TableroPuntos-CheckMatArg.runtimeconfig.json
+D:\Archivos\Desktop\TableroPuntos-CheckMat2.0\TableroPuntos-CheckMatArg.pdb
